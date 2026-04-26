@@ -1,0 +1,8 @@
+[
+	{"name": "Terminal", "command": "alacritty"},
+	{"name": "Files", "command": "thunar"},
+	{"name": "Wofi", "command": "wofi --show drun"},
+	{"name": "Clear Notifications", "command": "makoctl dismiss --all"},
+	{"name": "Reboot", "command": "systemctl reboot"},
+	{"name": "Shutdown", "command": "systemctl shutdown"}
+]
